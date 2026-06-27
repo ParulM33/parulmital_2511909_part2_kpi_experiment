@@ -43,7 +43,7 @@ Easy-to-read labels and legends
 Logical flow (overview → details)
 This ensures that even someone without technical knowledge can quickly understand the data.
 
-✅ Challenges Faced
+# Challenges Faced
 
 Adjusting data formats while connecting Tableau
 Deciding which metrics were most relevant
@@ -62,19 +62,19 @@ Tableau dashboard file / screenshot
 
 ecommendation Memo
 
-📌 To
+ To
 
 Business Stakeholders
 
-📌 From
+ From
 
 Parul Mital
 
-📌 Subject
+ Subject
 
 Recommendations Based on Data Analysis
 
-📌 Date
+Date
 
 27 June 2026
 
