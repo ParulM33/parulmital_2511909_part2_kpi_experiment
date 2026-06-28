@@ -120,4 +120,4 @@ A phased rollout is recommended to reduce risk and observe behavior across diffe
 
  
 
-Proceed with launch, with guardrail monitoring in place.
+Proceed with launch, with guardrail monitoring in place, heavily supported by proactive mitigation and continuous validation.
